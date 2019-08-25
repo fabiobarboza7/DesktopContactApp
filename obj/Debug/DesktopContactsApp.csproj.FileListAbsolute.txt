@@ -15,3 +15,13 @@ C:\Users\DevAgil\source\repos\DesktopContactsApp\DesktopContactsApp\obj\Debug\De
 C:\Users\DevAgil\source\repos\DesktopContactsApp\DesktopContactsApp\obj\Debug\DesktopContactsApp.csproj.CoreCompileInputs.cache
 C:\Users\DevAgil\source\repos\DesktopContactsApp\DesktopContactsApp\obj\Debug\DesktopContactsApp.exe
 C:\Users\DevAgil\source\repos\DesktopContactsApp\DesktopContactsApp\obj\Debug\DesktopContactsApp.pdb
+C:\Users\DevAgil\source\repos\DesktopContactsApp\DesktopContactsApp\bin\Debug\x86\e_sqlite3.dll
+C:\Users\DevAgil\source\repos\DesktopContactsApp\DesktopContactsApp\bin\Debug\x64\e_sqlite3.dll
+C:\Users\DevAgil\source\repos\DesktopContactsApp\DesktopContactsApp\bin\Debug\SQLite-net.dll
+C:\Users\DevAgil\source\repos\DesktopContactsApp\DesktopContactsApp\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\DevAgil\source\repos\DesktopContactsApp\DesktopContactsApp\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\DevAgil\source\repos\DesktopContactsApp\DesktopContactsApp\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\DevAgil\source\repos\DesktopContactsApp\DesktopContactsApp\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\DevAgil\source\repos\DesktopContactsApp\DesktopContactsApp\bin\Debug\SQLite-net.xml
+C:\Users\DevAgil\source\repos\DesktopContactsApp\DesktopContactsApp\obj\Debug\DesktopContactsApp_Content.g.cs
+C:\Users\DevAgil\source\repos\DesktopContactsApp\DesktopContactsApp\obj\Debug\DesktopContactsApp.csproj.CopyComplete
