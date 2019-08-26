@@ -49,6 +49,7 @@ namespace DesktopContactsApp
             {
                 contactsListView.ItemsSource = contacts;
             }
+   
         }
     }
 }
